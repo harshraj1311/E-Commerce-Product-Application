@@ -1,0 +1,17 @@
+.buttons{
+    margin: auto;
+    width: 13%;
+    padding: 10px;
+}
+
+body{
+    background-image: url("src\app\homepage.jpg");
+    background-position: center;
+    background-size: cover;
+    background-repeat: repeat-x;
+    background-attachment: fixed;
+  }
+
+  
+
+
